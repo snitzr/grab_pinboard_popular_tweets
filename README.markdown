@@ -9,5 +9,5 @@ Requirements
 
 Usage
 -----
-Run `grab.py`. This creates `output.html`. Open `output.html` in your web browser.
+Run `python grab.py` in the terminal. This creates `output.html`. Open `output.html` in your web browser.
 

@@ -1,3 +1,5 @@
+#! python3
+
 from bs4 import BeautifulSoup, SoupStrainer
 from urllib.request import urlopen
 import re
