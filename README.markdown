@@ -5,3 +5,9 @@ Requirements
 
 - [Python 3](https://www.python.org)
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
+
+
+Usage
+-----
+Run `grab.py`. This creates `output.html`. Open `output.html` in your web browser.
+
