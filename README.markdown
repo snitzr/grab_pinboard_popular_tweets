@@ -10,5 +10,4 @@ Requirements
 
 Usage
 -----
-Run `python3 grab.py` in the terminal. This creates `output.html`. Open `output.html` in your web browser.
-
+Run `python3 grab.py` in the terminal. This creates `output.html`. Open `output.html` in your web browser. If you want to open `output.html` from the terminal, use `open output.html` (*nix) or `explorer output.html` (Windows).
