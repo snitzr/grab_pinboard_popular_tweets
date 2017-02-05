@@ -1,3 +1,5 @@
+NOTE: PINBOARD.IN NOW FILTERS TWITTER LINKS OUT OF POPULAR. THIS PROJECT IS HERE FOR REFERENCE, ONLY.
+
 If you want to read tweets that are popular on [pinboard](http://pinboard.in), but don't want to sift through the other links, this is for you.
 
 Requirements
