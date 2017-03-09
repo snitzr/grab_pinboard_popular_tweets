@@ -1,4 +1,4 @@
-NOTE: PINBOARD.IN NOW FILTERS TWITTER LINKS OUT OF POPULAR. THIS PROJECT IS HERE FOR REFERENCE, ONLY.
+NOTE: PINBOARD.IN NOW FILTERS TWITTER LINKS OUT OF POPULAR. THIS PROJECT IS HERE FOR REFERENCE, ONLY. [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 If you want to read tweets that are popular on [pinboard](http://pinboard.in), but don't want to sift through the other links, this is for you.
 
