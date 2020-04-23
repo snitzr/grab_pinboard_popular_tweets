@@ -14,4 +14,8 @@ Requirements
 
 Usage
 -----
-Run `python3 grab.py` in the terminal. This creates `output.html`. Open `output.html` in your web browser. If you want to open `output.html` from the terminal, use `open output.html` (*nix) or `explorer output.html` (Windows).
+1. From the terminal in the directory of the files, run <code>python3 -m venv ENV</code> to create the virtual environment.
+2. <code>source env/bin/activate</code> to run the environment.
+3. <code>pip install beautifulsoup4</code> to install the first dependency.
+4. <code>pip install requests</code> to install the second dependency.
+5. Run `python grab.py`, to create `output.html`. Open `output.html` in your web browser. If you want to open `output.html` from the terminal, use `open output.html` (*nix) or `explorer output.html` (Windows).
